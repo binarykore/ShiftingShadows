@@ -20,4 +20,8 @@ or save as .sh
 
 echo "polipo -c ~/.poliporc" > service.sh
 
+then run,
+
+alias fisher = "sh ~/service.sh"
+
 source ~/.bashrc
