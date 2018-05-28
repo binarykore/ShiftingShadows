@@ -1,4 +1,4 @@
-# InstallationSetup of Polipo
+## Installation Setup of Polipo
 
 apt-get install polipo -y
 
