@@ -14,6 +14,10 @@ service polipo restart
 
 nano ~/.bashrc
 
-alias fisher = "polipo socksParentProxy=127.0.0.1:1080"
+alias fisher = "polipo -c ~/.poliporc"
+
+or save as .sh
+
+echo "polipo -c ~/.poliporc" > service.sh
 
 source ~/.bashrc
