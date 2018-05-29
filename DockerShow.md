@@ -1,7 +1,7 @@
 # Docker Shadow Socks:
 
 ```
-sudo apt-get update --force-missing && apt-get install -y docker.io
+sudo apt-get update --fix-missing && apt-get install -y docker.io
 ```
 
 ```
