@@ -6,7 +6,7 @@
 
 # Save in Format as SS.json
 
-{
+```{
   "server":"0.0.0.0",
   "server_port":7331,
   "local_address": "127.0.0.1",
@@ -14,4 +14,4 @@
   "password":"$SSPASSWORD",
   "timeout":600,
   "method":"aes-256-cfb"
-}
+}```
