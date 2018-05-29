@@ -1,8 +1,9 @@
 # Docker Shadow Socks:
 
-* export SSPASSWORD=SET_PASSWORD_HERE
-* docker run -d -p 7331:7331 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 7331 -k $SSPASSWORD -m aes-256-cfb
-* sslocal -c ~/ss.json -d start
+``` sudo apt-get update --force-missing && apt-get install -y docker.io ```
+``` export SSPASSWORD=SET_PASSWORD_HERE ```
+``` docker run -d -p 7331:7331 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 7331 -k $SSPASSWORD -m aes-256-cfb ```
+``` sslocal -c ~/ss.json -d start ```
 
 # Save in Format as SS.json
 
