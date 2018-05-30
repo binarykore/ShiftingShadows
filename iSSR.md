@@ -25,6 +25,8 @@ It seems I found the Error, Itself, Manually do this Below.
 ===========================================================
 mkdir -p ~/.cocoapods/repos && cd ~/.cocoapods/repos
 git clone https://github.com/CocoaPods/Specs.git master
+===========================================================
+Then Re-Run the Steps above.
 ```
 
 ```
