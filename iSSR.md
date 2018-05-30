@@ -14,6 +14,7 @@ sudo gem install cocoapods && pod install
 
 ```
 If Error Occurs:
+===========================================================
 pod cache clean Realm
 pod cache clean RealmSwift
 pod deintegrate || rm -rf Pods
@@ -27,6 +28,14 @@ mkdir -p ~/.cocoapods/repos && cd ~/.cocoapods/repos
 git clone https://github.com/CocoaPods/Specs.git master
 ===========================================================
 Then Re-Run the Steps above.
+```
+
+```
+If it does otherwise persist.
+===========================================================
+pod repo add https://github.com/CocoaPods/Specs.git master
+===========================================================
+Good Luck!
 ```
 
 ```
