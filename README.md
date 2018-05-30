@@ -10,3 +10,5 @@ Uploaded a ShadowsocksR for iOS, And will compile it from scratch. After the nex
 1) After compiling SSR for iOS, I will create a Server for it.
 
 * We also have a  Wiki Section for Developments and Developers: https://github.com/binarykorra/ShiftingShadows/wiki
+
+![Workplace](https://pbs.twimg.com/media/DeawEubXcAAvb4w.jpg:large)
