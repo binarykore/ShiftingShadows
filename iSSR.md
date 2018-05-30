@@ -20,6 +20,11 @@ pod deintegrate || rm -rf Pods
 pod install --verbose
 ```
 
+```
+It seems I found the Error, Himself.
+mkdir -p ~/.cocoapods/repos && cd ~/.cocoapods/repos
+git clone https://github.com/CocoaPods/Specs.git master
+```
 
 ```
 # SKIP
