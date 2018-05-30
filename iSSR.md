@@ -9,7 +9,7 @@ git submodule update --init --recursive
 ```
 
 ```
-pod install
+sudo gem install cocoapods && pod install
 ```
 
 ```
