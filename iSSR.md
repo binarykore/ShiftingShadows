@@ -1,7 +1,7 @@
 # Shadow Socks for iOS
 
 ```
-git clone https://github.com/ssrlive/iShadowsocksR.git iSSR && cd iSSR
+git clone https://github.com/haxpor/Potatso.git --depth=1 iSSR && cd iSSR
 ```
 
 ```
