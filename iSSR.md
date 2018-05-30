@@ -19,6 +19,17 @@ pod cache clean Realm
 pod cache clean RealmSwift
 pod deintegrate || rm -rf Pods
 pod install --verbose
+or
+pod setup
+===========================================================
+Then:
+===========================================================
+rm -rf ~/.cocoapods
+mkdir -p ~/.cocoapods/repos
+cd ~/.cocoapods/repos
+git clone https://github.com/CocoaPods/Specs.git master
+===========================================================
+Good Luck
 ```
 
 ```
