@@ -21,7 +21,8 @@ pod install --verbose
 ```
 
 ```
-It seems I found the Error, Himself.
+It seems I found the Error, Itself, Manually do this Below.
+===========================================================
 mkdir -p ~/.cocoapods/repos && cd ~/.cocoapods/repos
 git clone https://github.com/CocoaPods/Specs.git master
 ```
