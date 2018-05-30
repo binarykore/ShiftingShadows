@@ -13,10 +13,12 @@ sudo gem install cocoapods && pod install
 ```
 
 ```
+# SKIP
 cd Library/openssl
 ```
 
 ```
+# SKIP
 ./build-libssl.sh
 ```
 
